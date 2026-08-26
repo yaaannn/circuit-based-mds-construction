@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[codz]
+*.sage.py
+
+# Solver-generated files
+*.cnf
+*.result
+*.smt2
+*.map
+*.json
+*.cvc
