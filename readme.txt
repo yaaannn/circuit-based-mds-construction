@@ -1,6 +1,8 @@
 Circuit-Based MDS Matrix Construction
+=====================================
 
 Prerequisites:
+--------------
 You are supposed to install:
 
     - Python 3  (https://www.python.org/downloads/)
@@ -9,6 +11,7 @@ You are supposed to install:
     - Kissat    (https://github.com/arminbiere/kissat)
 
 File List:
+----------
 section_3/
     automated_construction.py       - Direct construction of MDS matrices using Z3
 
@@ -26,6 +29,7 @@ result/
     result_8_8.py                   - 8x8 MDS results for 8-, 16-, 32-, and 64-bit words
 
 Usage:
+------
 All commands below are run from the repository root.
 
 1. Verify all published result circuits:
